@@ -1,0 +1,22 @@
+{
+    "validUser":{
+        "email": "uneekamanandhar500@gmail.com",
+        "password": "uneekamanandhar@500"
+    },
+    "search":{
+        "searchTerm": "white forest"
+    },
+    "cake":{
+        "cakes": "Happy Birthday"
+    },
+
+    "contactDetail":{
+        "fullname": "Uneeka Manandhar",
+        "senderphone": "9812345678",
+        "senderemail": "uneekamanandhar@gmail.com",
+        "deliverylocation": "teku",
+        "receiverphone1": "9824681012",
+        "receiverphone2": "9813579113"
+    }
+
+}
